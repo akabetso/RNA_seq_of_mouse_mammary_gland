@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1552452	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552452_fastqc.zip
+FastQC	all_sections	SRR1552449	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552449_fastqc.zip
+FastQC	all_sections	SRR1552444	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552444_fastqc.zip
+FastQC	all_sections	SRR1552450	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552450_fastqc.zip
+FastQC	all_sections	SRR1552446	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552446_fastqc.zip
+FastQC	all_sections	SRR1552451	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552451_fastqc.zip
+FastQC	all_sections	SRR1552454	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552454_fastqc.zip
+FastQC	all_sections	SRR1552448	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552448_fastqc.zip
+FastQC	all_sections	SRR1552445	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552445_fastqc.zip
+FastQC	all_sections	SRR1552447	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552447_fastqc.zip
+FastQC	all_sections	SRR1552453	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552453_fastqc.zip
+FastQC	all_sections	SRR1552455	/home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc/SRR1552455_fastqc.zip

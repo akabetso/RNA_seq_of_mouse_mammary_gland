@@ -1,0 +1,10 @@
+
+/// MultiQC 🔍 v1.23
+
+       file_search | Search path: /home/akabetso/Desktop/Transcriptome/RNA_eq_of_mouse_mammary_gland/results/fastqc
+
+            fastqc | Found 12 reports
+
+     write_results | Data        : ../results/multiqc/multiqc_data
+     write_results | Report      : ../results/multiqc/multiqc_report.html
+           multiqc | MultiQC complete
