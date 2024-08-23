@@ -1,0 +1,15 @@
+Status	../results/aligned/SRR1552444_trimmed_aligned.bam	../results/aligned/SRR1552445_trimmed_aligned.bam	../results/aligned/SRR1552446_trimmed_aligned.bam	../results/aligned/SRR1552447_trimmed_aligned.bam	../results/aligned/SRR1552448_trimmed_aligned.bam	../results/aligned/SRR1552449_trimmed_aligned.bam	../results/aligned/SRR1552450_trimmed_aligned.bam	../results/aligned/SRR1552451_trimmed_aligned.bam	../results/aligned/SRR1552452_trimmed_aligned.bam	../results/aligned/SRR1552453_trimmed_aligned.bam	../results/aligned/SRR1552454_trimmed_aligned.bam	../results/aligned/SRR1552455_trimmed_aligned.bam
+Assigned	840	859	836	854	896	896	892	870	879	864	882	888
+Unassigned_Unmapped	37	46	54	39	43	42	20	22	21	24	33	34
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	299	227	283	258	126	151	230	297	224	240	185	201
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	19	16	10	15	12	12	10	16	25	29	24	7
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0

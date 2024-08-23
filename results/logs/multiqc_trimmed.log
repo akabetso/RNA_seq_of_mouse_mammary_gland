@@ -1,0 +1,11 @@
+
+/// MultiQC 🔍 v1.23
+
+     version_check | MultiQC Version v1.24 now available!
+       file_search | Search path: /home/akabetso/Desktop/Transcriptome/RNA_seq_of_mouse_mammary_gland/results/fastqc_trimmed
+
+            fastqc | Found 12 reports
+
+     write_results | Data        : ../results/multiqc_trimmed/multiqc_data
+     write_results | Report      : ../results/multiqc_trimmed/multiqc_report.html
+           multiqc | MultiQC complete
